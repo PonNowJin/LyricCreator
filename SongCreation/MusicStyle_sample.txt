@@ -1,0 +1,285 @@
+請依照下列詞彙選出需要的音樂風格
+
+Style:
+Danceable
+* Dance
+* Festive
+* Groovy
+* Mid-Tempo
+* Syncopated
+* Tipsy
+Dark
+* Atmospheric
+* Cold
+* Dark
+* Doom
+* Dramatic
+* Sinister
+Eclectic
+* Adjunct
+* Art
+* Capriccio
+* Mellifluous
+* Nü
+* Progressive
+* Unusual
+Emotion
+* Anthemic
+* Emotional
+* Happy
+* Jubilant
+* Melancholy
+* Sad
+Hard
+* Aggressive
+* Banger
+* Power
+* Stadium
+* Stomp
+Lyrical
+* Broadway
+* Cabaret
+* Lounge
+* Operatic
+* Storytelling
+* Torch-Lounge
+* Theatrical
+* Troubadour
+* Vegas
+Magical
+* Ethereal
+* Majestic
+* Mysterious
+Minimal
+* Ambient
+* Cinematic
+* Heat
+* Minimal
+* Slow
+* Sparse
+Party
+* German Schlager
+* Glam
+* Glitter
+* Groovy
+Soft
+* Ambient
+* Bedroom
+* Chillwave
+* Ethereal
+* Intimate
+* Heat
+* Sadcore
+Weird
+* Carnival
+* Distorted
+* Glitchy
+* Haunted
+* Hollow
+* Musicbox
+* Random
+World/Ethnic
+* Arabian
+* Bangra
+* Calypso
+* Chalga
+* Egyptian
+* Hindustani
+* Hōgaku
+* Jewish Music
+* Klezmer
+* Matsuri
+* Middle East
+* Polka
+* Russian Navy Song
+* Suomipop
+* Tribal
+
+Genre:
+Country
+* Appalachian
+* Bluegrass
+* Country
+* Folk
+* Freak Folk
+* Western
+Dance
+* Afro-Cuban
+* Dance Pop
+* Disco
+* Dubstep
+* Disco Funk
+* EDM
+* Electro
+* High-NRG
+* House
+* Trance
+Downtempo
+* Ambient
+* Downtempo
+* Synthwave
+* Trap
+Electronic
+* Ambient
+* Cyberpunk
+* Drum’n’bass
+* Dubstep
+* Electronic
+* Hypnogogical
+* IDM
+* Phonk
+* Synthpop
+* Techno
+* Trap
+Jazz/Soul
+* Bebop
+* Gospel
+* Electro
+* Frutiger Aero
+* Jazz
+* Latin Jazz
+* RnB
+* Soul
+Latin
+* Bossa Nova
+* Latin Jazz
+* Forró
+* Mambo
+* Salsa
+* Tango
+Reggae
+* Afrobeat
+* Dancehall
+* Dub
+* Reggae
+* Reggaeton
+Metal
+* Black Metal
+* Deathcore
+* Death Metal
+* Heavy Metal
+* Heavy Metal Trap
+* Metalcore
+* Nu Metal
+* Power Metal
+Popular
+* Pop
+* Dance Pop
+* Pop Rock
+* Kpop
+* Jpop
+* RnB
+* Synthpop
+Rock
+* Classic Rock
+* Blues Rock
+* Emo
+* Glam Rock
+* Hardcore Punk
+* Indie
+* Industrial Rock
+* Punk
+* Rock
+* Skate Rock
+* Skatecore
+* Suomipop
+Urban
+* Funk
+* Electro
+* HipHop
+* RnB
+* Phonk
+* Rap
+* Trap
+
+Type:
+Background
+* Elevator
+* Jingle
+* Muzak
+Call to Prayer
+* Adan
+* Adjan
+* Call to Prayer
+* Gregorian Chant
+Character
+* I Want Song
+* Hero Theme
+* Strut
+* March
+* Military
+* Villain Theme
+Children
+* Lullaby
+* Nursery Rhyme
+* Sing-along
+* Toddler
+Composer
+* Adagio
+* Adjunct
+* Andante
+* Allegro
+* Capriccio
+Instruments
+* Acoustic Guitar
+* Bass
+* Doublebass
+* Electricbass
+* Electric Guitar
+* Fingerstyle Guitar
+* Percussion
+Noise
+* Chaotic
+* Distorted
+* Glitch
+* Noise
+* Random
+* Stuttering
+Orchestral
+* glissando trombone
+* legato cello
+* Orchestral
+* spiccato violins
+* staccato viola
+* Symphonic
+Retro
+* 1960s
+* Barbershop
+* Big Band
+* Classic
+* Doo Wop
+* Girl Group
+* Mambo
+* Salooncore
+* Swing
+* Traditional
+Suffix
+* …core
+* …jam
+* …out
+* …wave
+Traditional
+* Americana
+* Barbershop
+* Christmas Carol
+* Traditional
+Voice
+* A Cappella
+* Arabian Ornamental
+* Dispassionate
+* Emotional
+* Ethereal
+* Gregorian chant
+* Hindustani
+* Lounge Singer
+* Melismatic
+* Monotone
+* Narration
+* Resonant
+* Spoken Word
+* Sprechgesang
+* Sultry
+* Scream
+* Torchy
+* Vocaloid
+
