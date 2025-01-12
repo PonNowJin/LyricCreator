@@ -141,6 +141,6 @@ def SongCreation(topic:str='', CREATE_SONG=1, image:str=None, music_style:str=No
 
 
 if __name__ == '__main__':
-    topic = 'title: 九彎十八拐'
+    topic = 'title: 調查局'
     SongCreation(topic, CREATE_SONG=0, image=None, music_style=None, preprocessed=True)
 

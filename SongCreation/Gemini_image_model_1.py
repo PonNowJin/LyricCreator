@@ -3,7 +3,7 @@ import google.generativeai as genai
 from API_setting import LLM
 
 genai.configure(api_key=os.environ["GOOGLE_API_KEY"])
-ROOT_DIR = os.environ["ROOT_DIR"]
+ROOT_DIR = os.path.abspath(os.path.dirname(__file__))
 
 def upload_to_gemini(path, mime_type=None):
   """Uploads the given file to Gemini.
